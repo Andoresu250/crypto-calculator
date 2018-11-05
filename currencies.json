@@ -1,0 +1,128 @@
+[
+    {
+        "symbol": "$",
+        "name": "US Dollar",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "USD",
+        "name_plural": "US dollars"
+    },    
+    {
+        "symbol": "€",
+        "name": "Euro",
+        "symbol_native": "€",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "EUR",
+        "name_plural": "euros"
+    },    
+    {
+        "symbol": "AR$",
+        "name": "Argentine Peso",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "ARS",
+        "name_plural": "Argentine pesos"
+    },    
+    {
+        "symbol": "Bs",
+        "name": "Bolivian Boliviano",
+        "symbol_native": "Bs",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "BOB",
+        "name_plural": "Bolivian bolivianos"
+    },
+    {
+        "symbol": "R$",
+        "name": "Brazilian Real",
+        "symbol_native": "R$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "BRL",
+        "name_plural": "Brazilian reals"
+    }, 
+    {
+        "symbol": "CL$",
+        "name": "Chilean Peso",
+        "symbol_native": "$",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "CLP",
+        "name_plural": "Chilean pesos"
+    },    
+    {
+        "symbol": "CO$",
+        "name": "Colombian Peso",
+        "symbol_native": "$",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "COP",
+        "name_plural": "Colombian pesos"
+    },
+    {
+        "symbol": "₡",
+        "name": "Costa Rican Colón",
+        "symbol_native": "₡",
+        "decimal_digits": 0,
+        "rounding": 0,
+        "code": "CRC",
+        "name_plural": "Costa Rican colóns"
+    },    
+    {
+        "symbol": "RD$",
+        "name": "Dominican Peso",
+        "symbol_native": "RD$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "DOP",
+        "name_plural": "Dominican pesos"
+    },    
+    {
+        "symbol": "MX$",
+        "name": "Mexican Peso",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "MXN",
+        "name_plural": "Mexican pesos"
+    },   
+    {
+        "symbol": "S/.",
+        "name": "Peruvian Nuevo Sol",
+        "symbol_native": "S/.",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "PEN",
+        "name_plural": "Peruvian nuevos soles"
+    }, 
+    {
+        "symbol": "C$",
+        "name": "Nicaraguan Córdoba",
+        "symbol_native": "C$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "NIO",
+        "name_plural": "Nicaraguan córdobas"
+    },    
+    {
+        "symbol": "$U",
+        "name": "Uruguayan Peso",
+        "symbol_native": "$",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "UYU",
+        "name_plural": "Uruguayan pesos"
+    },    
+    {
+        "symbol": "Bs.F.",
+        "name": "Venezuelan Bolívar",
+        "symbol_native": "Bs.F.",
+        "decimal_digits": 2,
+        "rounding": 0,
+        "code": "VEF",
+        "name_plural": "Venezuelan bolívars"
+    }   
+]
