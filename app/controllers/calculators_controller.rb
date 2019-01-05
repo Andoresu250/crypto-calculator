@@ -46,7 +46,7 @@ class CalculatorsController < ApplicationController
             end
             
             json = {
-                btc: btc,
+                btc: btc.to_f,
                 currency: @currency.code,
                 symbol: @currency.symbol,
                 value: value
@@ -78,7 +78,7 @@ class CalculatorsController < ApplicationController
             
             if response.code == 200
                 json = {
-                    btc: response.body,
+                    btc: response.body.to_f,
                     currency: @currency.code,
                     symbol: @currency.symbol,
                     value: value
