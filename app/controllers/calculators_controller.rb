@@ -78,7 +78,7 @@ class CalculatorsController < ApplicationController
             
             if response.code == 200
                 json = {
-                    btc: response.body.to_f,
+                    btc: response.body.gsub(/[\s,]/ ,"").to_f,
                     currency: @currency.code,
                     symbol: @currency.symbol,
                     value: value
